@@ -8,6 +8,6 @@ This is the place you ought to submit draw demands on the off chance that you di
 To interpret the substance in another dialect, simply make another registry named after the district (es for Spanish for occurrence), and re-make the same registry/document structure.
 
 **Before contributing, please read
-[contribution information]("http://iguestblog.com/")
+[contribution information](iguestblog.com)
 to make sure everything will be okay.**
 
